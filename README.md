@@ -68,3 +68,19 @@
   <li>전체 리스트에 대하여 엑셀로 다운 </li>
   <li>아이디, 이메일, 이름, 전화번호로 검색 기능 구현</li>
 </ul>
+
+# Tray
+<img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMjEw/MDAxNTU3MjkzODE0Njcz.u7fx2oj3W6YF1q24ZpnXhwKFVy6XMHrtiUQz_Kq8zKsg.p13oVMuBmPNyCpr1RyzUEubiYrbtHS8HjLBZenr11owg.PNG.younggu1545/%EA%B7%B8%EB%A6%BC26.png?type=w966"/>
+<ul>
+  <li>항상 켜 두어야 하는 프로그램 특성 상 최소화 버튼 클릭 시 트레이 창으로 가는 기능 구현</li>
+  <li>트레이 아이콘을 더블 클릭하면 최근에 작업했던 창으로 열리도록 구현</li>
+  <li>아이콘 우 클릭 시 원하는 메뉴 바로 갈 수 있는 선택 창 표시</li>
+  <li>Thread 기능 활용하여 다른 사람이 일정 등록 시 알림 창 표시 할 수 있는 기능 구현</li>
+</ul>
+
+
+# 클래스 다이어그램
+<img src="https://blog.naver.com/PostView.nhn?blogId=younggu1545&Redirect=View&logNo=221532345222&categoryNo=1&isAfterWrite=true#"/>
+<img src="https://postfiles.pstatic.net/MjAxOTA1MDhfODMg/MDAxNTU3Mjg4OTY4Mzkx.j2hHwj_DzwXepTh256kfghC0WWKqsQBnTNOdrIxfH5Ig.kNj_aJfxeDauHlfR60nIEe0oqo1D9tM2EX2IghO9H74g.PNG.younggu1545/%EA%B7%B8%EB%A6%BC18.png?type=w966"/>
+<img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMzIg/MDAxNTU3Mjg4OTY4Mzg5.v_tiULxwpmFL_IpQZKqxBSrN1iFV9xjTIaWb-wJz_Jog.Z-22JYEv6BNZVDu8L0mqQxyuOsJdlQBTJidFVlQfA_cg.PNG.younggu1545/%EA%B7%B8%EB%A6%BC19.png?type=w966"/>
+<img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMjM1/MDAxNTU3Mjg4OTY4Mzcw.p87bfX_stXOj-Rs37HEFVWovwEUWhBWm8UYJs7Vftfsg.g8oK8K-fy-oiusvqzbDc0EkuBtfuQ6P9jOXy1zskyUAg.PNG.younggu1545/%EA%B7%B8%EB%A6%BC20.png?type=w966"/>
