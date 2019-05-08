@@ -34,3 +34,37 @@
     </ul>
   </li>
 </ul>
+
+# 일정 보기 및 수정
+<img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMTAw/MDAxNTU3MjkyMDYxNjQ5.YkP-KmuaKb2iIOUe_vV7bhEU_81bZ6LEbkNvX5KDV6Ag.8tLBCq2TyHS39jdQSKJSwFmQOKgwlqhsNglo0Uxh9L0g.PNG.younggu1545/%EA%B7%B8%EB%A6%BC24.png?type=w966"/>
+<ul>
+  <li>달력에서 해당 일정 누르면 일정 볼 수 있는 화면으로 넘어갈 수 있도록 구현</li>
+  <li>자신이 작성한 일정은 수정 가능하도록 표시(좌측)</li>
+  <li>다른사람이 작성한 글은 수정할 수 없도록 작성(우측)</li>
+</ul>
+
+# 게시판
+<img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMjAw/MDAxNTU3MjkyMjMwMjA2.DsAso-fQea_nZaj27kiujDpCYnB9lJw-ppB9nn-OscIg.Ia_wCqyq3aPSDObI3h-KS8yuWsGSS6AcgDBuJdcezzYg.PNG.younggu1545/%EA%B7%B8%EB%A6%BC25.png?type=w966"/>
+<ul>
+  <li>게시판 선택 시 현재 등록 된 게시글 볼 수 있도록 표시</li>
+  <li>검색 기능 사용하여 제목, 작성자, 아이디 별로 검색 기능 구현</li>  
+</ul>
+
+# 정보 수정
+<img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMjM5/MDAxNTU3Mjg4OTY3Nzgw.mGVwMGRBzmSy--PAJ8v_E4I7NlIqX8cSvu1Px-XPsLYg.rj1X9m6D5WykU6epk6DMuCbC8TJpDRAW-Vzi5U5D8ssg.PNG.younggu1545/%EA%B7%B8%EB%A6%BC11.png?type=w966"/>
+<ul>
+  <li>아이디 및 이름은 수정 불가능 하도록 설정</li>
+  <li>이메일/전화번호 변경 시 비밀번호 일치해야 변경 되도록 설정</li>
+  <li>비밀번호 변경 시 기존 비밀번호와 새로 작성한 비밀번호들이 일치해야 변경 가능 하도록 작성</li>
+  <li>비밀번호 일치해야 회원 탈퇴 가능하도록 작성</li>
+</ul>
+
+# 회원 관리(관리자 화면)
+<img src="https://postfiles.pstatic.net/MjAxOTA1MDhfNzAg/MDAxNTU3Mjg4OTY4MDcw.HZLWLEKgTltEvrF9t61O9FvNfTS0PDGZc5xmeURnSe0g._PFGiQ4QgWbcGGY0WnsieiEOuQ21IYdHdrOiLwtzdV8g.PNG.younggu1545/%EA%B7%B8%EB%A6%BC13.png?type=w966"/>
+<ul>
+  <li>관리자로 설정 된 멤버만 해당 메뉴가 표시 되도록 작성</li>
+  <li>아이디 및 이름은 수정 불가능하며, 이메일, 전화번호, 어드민 설정만 수정가능하며 수정 시 update 진행</li>
+  <li>선택한 회원의 회원 삭제 및 비밀번호 초기화 기능 구현 </li>
+  <li>전체 리스트에 대하여 엑셀로 다운 </li>
+  <li>아이디, 이메일, 이름, 전화번호로 검색 기능 구현</li>
+</ul>
